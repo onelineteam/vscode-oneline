@@ -6,7 +6,15 @@ the website: [http://www.onelineteam.com](http://www.onelineteam.com)
 
 ## Features
 
-all commands currently only support the relative path  
+all commands currently only support the relative path.
+
+## usage
+
+type command line and select it.
+
+- tap shortcut for the command palette, exec command:  `oneline`.
+
+- or tap (mac: `cmd + r`, window: `ctrl+alt+r`) shortcut for running `oneline`.
 
 **demo:**
 
